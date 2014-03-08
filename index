@@ -1,0 +1,188 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="../../assets/ico/favicon.ico">
+
+    <title>CollegeTime</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+	
+    <!-- Custom styles for this template -->
+    <link href="jumbotron.css" rel="stylesheet">
+
+    <!-- Just for debugging purposes. Don't actually copy this line! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+<style>
+.image{ background-image:url("images/stanford-3-crop.jpg");background-repeat:no-repeat; background-size:cover;height:430px; width:1398px; opacity:0.9;}
+.jumbotroncontainer{padding-top:120px; opacity:1 background-color:rgb(255,255,153)}
+.jumbotroncontainer h1{color:rgb(0,0,0);}
+.jumbotroncontainer p{color:rgb(255,255,255)}
+.signupdialog{width:500px;}
+#txtBox{
+height:39px;
+align:"middle";
+}
+</style>  
+
+</script>
+</head>
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">COLLEGETIME</a>
+        </div>
+	<div>
+	<ul class =" nav navbar-nav pull-right visible-lg-sm-xs">
+	<li class>
+	<a href="#myModal1" data-toggle="modal">Sign In</a>			
+	</li>	
+	</ul>
+	</div>
+      </div>
+    </div>
+
+
+
+<div class="modal fade" id ="myModal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel1" aria-hidden="true">
+	<div class="modal-dialog signupdialog">
+	<div class="modal-content">	
+		<div class="modal-header">
+		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>  
+		<center>		
+		<h2>Sign In</h2>		
+		<img src="images/graduation-cap-diploma-18747492.jpg"> 
+		</center>		
+		
+		</div>
+	<div class="modal-body">
+	 <form role="form">
+            <div class="form-group">
+              <input type="text" placeholder="Email" class="form-control">
+            </div>
+            <div class="form-group">
+              <input type="password" placeholder="Password" class="form-control">
+            </div>
+          
+	</div>
+	<div class ="modal-footer">
+	<center>        
+	<button type="submit" class="btn btn-success btn-lg">Sign in</button>
+          </center>
+	</form>	
+	</div><!--modal footer-->
+</div><!--modal content-->
+</div><!--modal-dialog-->
+</div><!--modal--> 	
+
+
+
+
+
+
+
+
+    <div class="modal fade" id ="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+	<div class="modal-dialog signupdialog">
+	<div class="modal-content">	
+		<div class="modal-header">
+		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>   
+	  	<h1>Sign Up</h1>
+		</div>      
+    		<div class="modal-body">  
+		<center>
+     		<form method="post">
+		<input id="txtBox" type ="text" placeholder="First Name" name="first_name" size="45"></br>
+	        <input id="txtBox" type ="text" placeholder="Last Name" name="last_name" size="45"></br>	       		
+		<input id="txtBox" type ="email" placeholder="Email" name="email" size="45"></br>
+	        <input id="txtBox" type ="password" placeholder="Password" name="password" size="45" ></br>
+	        <input id="txtBox" type ="password" placeholder="Confirm Password" name="confirm_password" size="45"></br>
+	        </center>
+		
+		</div>  
+	<div class ="modal-footer">
+          <input type="submit" class="btn btn-primary btn-lg" value="Save">
+	</form>	
+	</div><!--modal footer-->
+</div><!--modal content-->
+</div><!--modal-dialog-->
+</div><!--modal--> 	
+
+    <!-- Main jumbotron for a primary marketing message or call to action -->
+    <div class="jumbotron image img-responsive" >
+      <div class="container jumbotroncontainer">
+        <h1>Build Your Future</h1>
+        <p>This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
+        <p><a href="#myModal"class="btn btn-primary btn-lg" role="button" data-toggle="modal">Get Started &raquo;</a></p>
+      </div>
+    </div>
+
+    <div class="container">
+      <!-- Example row of columns -->
+      <div class="row">
+        <div class="col-md-4">
+	<center>
+          <h2>Find Colleges</h2>
+          <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+	</center>	        
+	</div>
+        <div class="col-md-4">
+	<center>
+          <h2>Track Deadlines</h2>
+          <img src="images/dead.jpg" height="200px" width="200px" align="middle"/>	          
+	  <p>Never Miss a deadline.We help you make a to-do list,sorted by school to allow you to work efficiently.</p>
+          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+	</center>      
+ 	</div>
+        <div class="col-md-4">
+	<center>        
+  	<h2>Share Plans</h2>
+	  <img src="images/share.jpg" height="200px" width="200px" align="middle"/>	
+          <p>Invite your parents or counsellor to your accounts so that they can check your progress.</p>
+          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+	</center>        
+	</div>
+      </div>
+
+      <hr>
+
+      <footer>
+        <p>&copy; Company 2014</p>
+      </footer>
+    </div> <!-- /container -->
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+   <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>-->
+    <script src="http://code.jquery.com/jquery-latest.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src ="js/bootstrap.js" type="text/javascript"></script>
+    <script src = "js/jquery.js" type="text/javascript"></script>	
+  
+</body>
+</html>
+
