@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd" id="WebApp_ID" version="3.0">
+  <display-name>FinalCollegeTimeClient</display-name>
+  <welcome-file-list>
+    <welcome-file>index1.html</welcome-file>
+  </welcome-file-list>
+  <servlet>
+    <description></description>
+    <display-name>locationCode</display-name>
+    <servlet-name>locationCode</servlet-name>
+    <servlet-class>servlets.locationCode</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>locationCode</servlet-name>
+    <url-pattern>/View/locationCode.do</url-pattern>
+  </servlet-mapping>
+
+<servlet>
+    <description></description>
+    <display-name>stepGuide</display-name>
+    <servlet-name>stepGuide</servlet-name>
+    <servlet-class>servlets.stepGuide</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>stepGuide</servlet-name>
+    <url-pattern>/View/stepGuide.do</url-pattern>
+  </servlet-mapping>
+
+</web-app>

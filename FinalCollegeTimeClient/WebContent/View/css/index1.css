@@ -1,0 +1,103 @@
+
+#page-wrapper{
+background:white;
+padding:2%;
+
+}
+#site-container{
+
+}
+#header{
+margin-top:2%;
+margin-bottom:6%;
+background:blue;
+}
+
+#container{
+padding:50px;
+background-image:url("../images/science-seamless-pattern-28819835.jpg");
+background-repeat:repeat-x;
+height:420px;
+}
+
+#title{
+font-style:italic;
+font-size:2em;
+font-varient:small-caps;
+font-weight:bold;
+color:#00AAE4;
+}
+
+span h1 h2{
+font-weight:bolder;
+font-size:54px;
+}
+
+#marketing-container{
+margin-top:2%;
+text-align:center;
+padding-top:4%;
+color:#00AAE4;
+font-style:italic;
+font-weight:bolder;
+
+}
+
+#teaser-content{
+margin:75px 30px 50px 40px;
+/*background:blue;*/
+}
+
+.featurestyle{
+height:250px;
+/*background:blue;*/
+margin-top:2%;
+}
+
+.img-circle{
+margin:20px 20px 50px 100px;
+border:5px solid;
+border-color:#00AAE4;
+cursor:pointer;
+}
+
+img:hover{
+-moz-box-shadow: outset 2px 4px 10px #000;
+-webkit-box-shadow: outset 2px 4px 10px #000;
+box-shadow: outset 2px 4px 10px #000;
+}
+
+p{
+font-family:"Trebuchet MS", Helvetica, sans-serif;
+font-style:normal;
+font-size:210%;
+color: #A9A9A9;
+text-align:justify;
+}
+
+p span{
+font-style:italic;
+color:#87CEEB;	
+}
+
+#form{
+width:300px;
+float:right;
+padding: 10px 5px 10px 5px;	
+margin-top:5%;
+margin-right:10%;
+background-color:#E0E0E0;
+border-radius:5px;
+}
+
+#form input{
+width:100%;	
+margin-top:5%;
+margin-bottom:2%;
+height:40px;
+border-radius:5px;
+border:2px solid #E0E0E0;
+
+}
+
+

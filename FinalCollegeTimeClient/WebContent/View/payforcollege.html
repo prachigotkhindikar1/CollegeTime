@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="icon" type="image/png" href="images/graduation-cap-diploma-18747492.jpg" />
+<title>CollegeTime</title>
+<link href="css/bootstrap.css" rel="stylesheet">
+<link href="css/payforcollege.css" rel="stylesheet">
+<link rel="stylesheet" href="css/colorbox.css">
+<link rel="stylesheet" type="text/css" href="css/default.css" />
+<link rel="stylesheet" type="text/css" href="css/component.css" />
+</head>
+<body>
+<div id="fb-root"></div>
+<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+	<div class="container">
+	 <div class="navbar-header">
+		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+			<span class="sr-only">Toggle Navigation</span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>					
+		</button> 
+		<a class="navbar-brand" href="index1.html">CollegeTime</a>
+	  </div>	
+	  <div class="navbar-collapse collapse in" style="height: auto;">
+		<ul class="nav navbar-nav">
+			<li class="active"><a href="index1.html"><span class="glyphicon glyphicon-home"></span>Home</a></li>
+			<li><a href="#fundraiser">Fund Raisers</a></li>
+			<li><a href="#fafsa">Essay Scholarships</a></li>
+			<li><a href="#studentloan">Search a Job</a></li>
+		</ul>	 	 
+	  </div>
+	</div>
+</div>
+<div id="page1">
+	<a id="fundraiser"></a>
+	<div id="fundwrap">
+		<h1>Tell your Story</h1>
+		<div id="fundForm">
+			<form id="theFundForm" enctype="multipart/form-data" method="post">
+			 <input type="text" name="beneficiary" placeholder="Beneficiary Name"></br>
+			 <input type="text" name="goalAmount" placeholder="Goal Amount"></br>
+			 <input type="text" id="video_upload" name="upload_video" placeholder="You tube video link(https://www.youtube.com/watch?/)"></br>
+			 <textarea id="description" name="description" rows="2" cols="20"></textarea>
+			 <button type="button" class="btn btn-primary">Submit FundRaiser</button>	
+			</form>	
+		</div>
+
+		<div id="fundShareButtons">
+			<div class="facebookShare">
+				<span type="checkbox">
+				<input 	id="fbCheckbox" name="facebook" type="checkbox" onclick="fbAuthUser()"/>				
+				</span>	
+				<label id="fbLabel"><span class="glyphicon glyphicon-"></span>Share on facebook</label>
+			</div>
+			<div class="twitterShare">
+				<span type="checkbox">
+				<input 	id="tweetCheckbox" type="checkbox"/>				
+				</span>	
+				<label id="fbLabel">Share on Twitter</label>
+			</div>
+		</div>
+	<div style="clear:both"></div>
+
+	</div>
+</div>
+
+<div id="page2">
+	<a id="fafsa"></a>
+<div class="container">				
+			<div class="main">
+				<h1>Essay Scholarships</h1>
+				<ul id="og-grid" class="og-grid">
+					<li>
+						<a href="http://www.wyzant.com/Scholarships/" data-largesrc="images/thumbs/wyzant.gif" data-title="WyzAnt College Scholarships" data-description="WyzAnt Tutoring annual scholarship contest is open for its fourth year. Multiple prizes are up for grabs, with a first place scholarship worth $10,000!">
+							<img src="images/thumbs/wyzantimg.jpg" alt="wyzant"/>
+						</a>
+					</li>
+					<li>
+						<a href="http://www.alba-valb.org/participate/essay-contest" data-largesrc="images/thumbs/alba.jpg" data-title="George Watt Memorial Essay " data-description="Graduate and undergraduate students from the US are invited to submit an essay about any aspect of the  Civil War, the global political or cultural struggles against fascism in 1920s and 1930s.Prizes worth $500 will awarded to each category ">
+							<img src="images/thumbs/georgewattimg.jpg" alt="alba"/>
+						</a>
+					</li>
+					<li>
+						<a href="http://www.jfklibrary.org/Education/Profile-in-Courage-Essay-Contest.aspx" data-largesrc="images/jfk.jpg" data-title="JFK Profile in Courage Essay Contest" data-description="">
+							<img src="images/thumbs/jfkimg.jpg" alt="jfk"/>
+						</a>
+					</li>
+					
+					<li>
+						<a href="http://www.foreclosure.com/scholarship" data-largesrc="images/thumbs/foreclosure.jpg" data-title="Foreclosure.com Scholarship Program" data-description="Foreclosure.com has issued $45,000 in scholarship money to 25 college students nationwide since the program was introduced in 2009.Prizes worth $10,000 ">
+							<img src="images/thumbs/foreclosureimg.jpg" alt="foreclosure"/>
+						</a>
+					</li>
+					<li>
+						<a href="http://www.gkscholarship.com/" data-largesrc="images/thumbs/dig.jpg" data-title="Gen and Kelly Tanabe Scholarship" data-description="The Gen and Kelly Tanabe Scholarship is a merit-based program that helps students fulfill their dreams of a higher education.$1,000 scholarship available to current college students upon essay submission.">
+							<img src="images/thumbs/genimg.jpg" alt="foreclosure"/>
+						</a>
+					</li>
+					<li>
+						<a href="http://www.antiquetrader.tv/studentscholarship.php" data-largesrc="images/thumbs/dig.jpg" data-title="The Big Dig Scholarship" data-description="A $3,000 essay-based scholarship available to freshmen or sophomore college students. For more details visit the website.">
+							<img src="images/thumbs/bigdigimg.jpg" alt="bigdig"/>
+						</a>
+					</li>					
+					<li>
+						<a href="http://www.npg.org/overview/npg-2014-essay-scholarship-contest.html" data-largesrc="images/thumbs/dig.jpg" data-title="NPG 2014 Essay Scholarship" data-description="A $3,000 essay-based scholarship available to freshmen or sophomore college students. For more details visit the website.">
+							<img src="images/thumbs/npgimg.jpg" alt="bigdig"/>
+						</a>
+					</li>					
+					<li>
+						<a href="http://www.sar.org/Youth/Knight_Essay_Rules" data-largesrc="images/thumbs/dig.jpg" data-title="Knight Essay Contest " data-description="A $3,000 essay-based scholarship available to freshmen.Write an essay on an event, person, philosophy, or ideal associated with the American Revolution, the Declaration of Independence.">
+							<img src="images/thumbs/knightimg.jpg" alt="bigdig"/>
+						</a>
+					</li>					
+					<li>
+						<a href="http://www.reaganfoundation.org/GE-RFScholarships.aspx" data-largesrc="images/thumbs/306px-Seal_of_the_Ronald_Reagan_Presidential_Library.svg.png" data-title="GE Regan Foundation Scholarship" data-description="A $10,000 scholarship available to high-school students. For more details visit the website.">
+							<img src="images/thumbs/reganimg.jpg" alt="bigdig"/>
+						</a>
+					</li>					
+									
+				</ul>
+			</div>
+		</div><!-- /container -->
+</div>
+<div id="page3">
+	<a id="studentloan"></a>
+	
+	<div id="page3_main_content">
+	<div id="content_align">	
+	    <div id="indeed_jobsearchbox">	
+		<h3>Search Jobs</h3>
+		<form id="search_form">
+		<div class="row">
+		<div class="col-md-5">
+		<span>what</span></div>
+		<div class="col-md-5">
+		<span>where</span></div>
+		<div class="col-md-2">
+		<span></span></div>		
+		</div>	
+		 <div class="row">
+		<div class="col-md-5">	
+		<input type="text" name="q" placeholder="job title, keywords or company"></div>
+		<div class="col-md-5"><input type="text" name="l" placeholder="city, state or zip"></div>
+		<div class="col-md-2"><input type='submit' value="Find Jobs"></div>		
+		</div>
+		</form>
+             </div>
+	
+	</div>	
+	</div>
+	<div id="content">
+  	<div id="searchResults">
+	<h3>featured Jobs</h3>
+	</div>
+	</div>
+
+</div>
+
+
+
+<script src="js/jquery-1.10.1.min.js"></script>
+<script src="js/jquery.colorbox.js"></script>
+<script src="js/bootstrap.js" type="text/javascript"></script>
+<script src="js/modernizr.custom.js"></script>
+<script src="js/grid.js"></script>
+		<script>
+			$(function() {
+				Grid.init();
+			});
+		</script>
+
+<script type="text/javascript">
+$(document).ready(function(){
+                $(".contactLink").click(function(){
+                    if ($("#contactForm").is(":hidden")){
+                        $("#contactForm").slideDown("slow");
+                    }
+                    else{
+                        $("#contactForm").slideUp("slow");
+                    }
+                });
+            });
+            function closeForm(){
+                $("#messageSent").show("slow");
+                setTimeout('$("#messageSent").hide();$("#contactForm").slideUp("slow")', 2000);
+           }
+
+$(document).ready(function() {
+  function filterPath(string) {
+    return string
+      .replace(/^\//,'')
+      .replace(/(index|default).[a-zA-Z]{3,4}$/,'')
+      .replace(/\/$/,'');
+  }
+  $('a[href*=#]').each(function() {
+    if ( filterPath(location.pathname) == filterPath(this.pathname)
+    && location.hostname == this.hostname
+    && this.hash.replace(/#/,'') ) {
+      var $targetId = $(this.hash), $targetAnchor = $('[name=' + this.hash.slice(1) +']');
+      var $target = $targetId.length ? $targetId : $targetAnchor.length ? $targetAnchor : false;
+       if ($target) {
+         var targetOffset = $target.offset().top;
+         $(this).click(function() {
+           $('html, body').animate({scrollTop: targetOffset}, 1000);
+           var d = document.createElement("div");
+        d.style.height = "101%";
+        d.style.overflow = "hidden";
+        document.body.appendChild(d);
+        window.scrollTo(0,800);
+        setTimeout(function() {
+        d.parentNode.removeChild(d);
+            }, 10);
+           return false;
+         });
+      }
+    }
+  });
+});
+
+
+window.fbAsyncInit = function() {
+  FB.init({
+    appId      : 550452158385651,
+    status     : true, // check login status
+    cookie     : true, // enable cookies to allow the server to access the session
+    xfbml      : true  // parse XFBML
+  });
+};
+
+
+(function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "http://connect.facebook.net/en_US/all.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk'));
+
+
+function fbAuthUser()
+{
+FB.login(checkLoginStatus,{ scope:'publish_actions,publish_stream'});
+
+}
+
+
+function checkLoginStatus()
+{
+ 	 FB.getLoginStatus(function(response) {
+ 		   if (response.status === 'connected') {
+				document.getElementById("fbCheckbox").checked=true;
+				var video_file = document.getElementById("video_upload").value;
+				var link_array=video_file.split("=");
+				var youtube_id=link_array[link_array.length-1];
+				var img="http://img.youtube.com/vi/"+youtube_id+"/0.jpg";
+				var source="https://www.youtube.com/v"+youtube_id;
+				FB.api('/me/feed','post',
+				{ 
+				    name:'CollegeTime',
+				    link:video_file,
+				    picture:img,	
+				    source:source					
+                 },function(response) {	
+					if (!response || response.error) {
+						alert(response.message);	
+					    alert('Error occured');
+					  } else {
+					    alert('Post ID: ' + response.id);
+					  }      				
+	  	  		});
+		     } 
+		 else if (response.status === 'not_authorized') {
+			     document.getElementById("fbCheckbox").checked=true;
+				alert("Please provide correct Facebook details");
+			      FB.login();
+		    }
+		else {
+	       FB.login();
+	    }
+  });
+}
+</script>
+<script>
+$(document).ready(function(){
+$.ajax({
+type: "GET",
+url :"jobsearch",
+dataType : "xml",
+success : function(response){
+		$(response).find('JobSearchResult').each(function(){
+	
+		var h6=document.createElement('h4'),p = document.createElement('p'),
+		h6_txt=document.createTextNode($(this).find("Company").text()),
+		employmentTitle=$(this).find("JobTitle").text(),
+		location=$(this).find("Location").text();
+		company_link=$(this).find("JobDetailsURL").text();
+		h6.appendChild(h6_txt);
+		$(p).append(h6);
+		$(p).append(employmentTitle);
+		$(p).append("  ")
+		$(p).append(location);
+		$(p).append('<br><a href="'+company_link+'">Read More</a><br><br>');
+		$("#content").append(p);
+		});
+		}
+	});
+});
+</script>
+<script>
+$('a.lightbox').colorbox();
+</script>
+</body>
+</html>

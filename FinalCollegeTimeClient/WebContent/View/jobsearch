@@ -1,0 +1,1287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResponseJobSearch>
+  <Errors />
+  <TimeResponseSent>4/2/2014 9:43:50 PM</TimeResponseSent>
+  <TimeElapsed>0.5304102</TimeElapsed>
+  <TotalPages>32</TotalPages>
+  <TotalCount>1597</TotalCount>
+  <FirstItemIndex>1</FirstItemIndex>
+  <LastItemIndex>50</LastItemIndex>
+  <Results>
+    <JobSearchResult>
+      <Company>Microsemi</Company>
+      <CompanyDID>chs84w6lzl34gnnvkwf</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.com/jobs/company/chs84w6lzl34gnnvkwf/microsemi/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G07D78CTKR4MFQDQS</DID>
+      <OnetCode>17-2071.00</OnetCode>
+      <ONetFriendlyTitle>Electrical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Are you an undergraduate student interested in a fast-paced company? Are you currently majoring in Electrical Engineering? If so, Microsemi invites...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intern</EmploymentType>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3G07D78CTKR4MFQDQS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G07D78CTKR4MFQDQS&amp;HostSite=US&amp;DeveloperKey=WDHS54569PZ5S5SPPVHH</JobServiceURL>
+      <Location>CA - San Jose</Location>
+      <LocationLatitude>37.33847</LocationLatitude>
+      <LocationLongitude>-121.88579</LocationLongitude>
+      <PostedDate>4/2/2014</PostedDate>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3G07D78CTKR4MFQDQS</SimilarJobsURL>
+      <JobTitle>FAE Intern</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/jx/mr87576022vfk0kldjx.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>RDO Equipment Co.</Company>
+      <CompanyDID>chs0jz666zq1rtnzq4d</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.com/jobs/company/chs0jz666zq1rtnzq4d/rdo-equipment-co/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J6WD67VTF2P7YRP2Y</DID>
+      <OnetCode>41-4012.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Wholesale and Manufacturing)</ONetFriendlyTitle>
+      <DescriptionTeaser>This part time internship will allow this person to gain understanding of the skills necessary to advance into a sales role within RDO Equipment Co....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time</EmploymentType>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3J6WD67VTF2P7YRP2Y</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J6WD67VTF2P7YRP2Y&amp;HostSite=US&amp;DeveloperKey=WDHS54569PZ5S5SPPVHH</JobServiceURL>
+      <Location>CA - Livermore</Location>
+      <LocationLatitude>37.67524</LocationLatitude>
+      <LocationLongitude>-121.75783</LocationLongitude>
+      <PostedDate>3/19/2014</PostedDate>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3J6WD67VTF2P7YRP2Y</SimilarJobsURL>
+      <JobTitle>Sales Intern</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/pf/mws83c6jxj4jq04ddpf.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Jones Lang LaSalle</Company>
+      <CompanyDID>c27n86dy8flk3452vx</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.com/jobs/company/c27n86dy8flk3452vx/jones-lang-lasalle/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JHN07472WBLKCZVLYLP</DID>
+      <OnetCode>19-3021.00</OnetCode>
+      <ONetFriendlyTitle>Market Research Analysts</ONetFriendlyTitle>
+      <DescriptionTeaser>The role The Research Intern will be a part-time member of the Northwest research team and will provide auxiliary research support to a team of...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time</EmploymentType>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHN07472WBLKCZVLYLP</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHN07472WBLKCZVLYLP&amp;HostSite=US&amp;DeveloperKey=WDHS54569PZ5S5SPPVHH</JobServiceURL>
+      <Location>CA - Palo Alto</Location>
+      <LocationLatitude>37.44466</LocationLatitude>
+      <LocationLongitude>-122.16079</LocationLongitude>
+      <PostedDate>3/27/2014</PostedDate>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHN07472WBLKCZVLYLP</SimilarJobsURL>
+      <JobTitle>Research Intern</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/p4/in307b6g0740817t4p4.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>UL LLC</Company>
+      <CompanyDID>chr4395wgq3pbrd103b</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.com/jobs/company/chr4395wgq3pbrd103b/ul-llc/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JHR6LW6YC5K5GZD0YF9</DID>
+      <OnetCode>15-1041.00</OnetCode>
+      <ONetFriendlyTitle>Computer Support Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>IT Intern Promoting safe living and working environments. Founded in 1894, UL is a premier safety company with more than a century of proven history,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time</EmploymentType>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHR6LW6YC5K5GZD0YF9</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHR6LW6YC5K5GZD0YF9&amp;HostSite=US&amp;DeveloperKey=WDHS54569PZ5S5SPPVHH</JobServiceURL>
+      <Location>CA - Fremont</Location>
+      <LocationLatitude>37.55091</LocationLatitude>
+      <LocationLongitude>-121.98217</LocationLongitude>
+      <PostedDate>3/18/2014</PostedDate>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHR6LW6YC5K5GZD0YF9</SimilarJobsURL>
+      <JobTitle>IT Intern</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/4r/mrk0xz6vr6x3f3y334r.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TriQuint Semiconductor</Company>
+      <CompanyDID>c8a5j96rmffnf1nzwrj</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.com/jobs/company/c8a5j96rmffnf1nzwrj/triquint-semiconductor/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J2C46MXV45C9LY6YX</DID>
+      <OnetCode>17-3023.01</OnetCode>
+      <ONetFriendlyTitle>Electronics Engineering Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Position Summary: Assist with the collection and review of technical information and the compilation of this information into marketing and customer...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time</EmploymentType>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3J2C46MXV45C9LY6YX</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J2C46MXV45C9LY6YX&amp;HostSite=US&amp;DeveloperKey=WDHS54569PZ5S5SPPVHH</JobServiceURL>
+      <Location>CA - San Jose</Location>
+      <LocationLatitude>37.33847</LocationLatitude>
+      <LocationLongitude>-121.88579</LocationLongitude>
+      <PostedDate>3/5/2014</PostedDate>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3J2C46MXV45C9LY6YX</SimilarJobsURL>
+      <JobTitle>RF Applications Engineering Intern</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/f7/mvk3p05x13zyyb3vmf7.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Shutterfly, Inc.</Company>
+      <CompanyDID>chv89l6y6k43hwrv269</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.com/jobs/company/chv89l6y6k43hwrv269/shutterfly-inc/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H0P56WP3F0XJMGBNP</DID>
+      <OnetCode>19-3021.00</OnetCode>
+      <ONetFriendlyTitle>Market Research Analysts</ONetFriendlyTitle>
+      <DescriptionTeaser>Shutterfly 2014 Summer Internship is a 12 week program beginning in June and commencing in August. The program offers great experience to students...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time</EmploymentType>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3H0P56WP3F0XJMGBNP</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0P56WP3F0XJMGBNP&amp;HostSite=US&amp;DeveloperKey=WDHS54569PZ5S5SPPVHH</JobServiceURL>
+      <Location>CA - Redwood City</Location>
+      <LocationLatitude>37.48417</LocationLatitude>
+      <LocationLongitude>-122.2271</LocationLongitude>
+      <PostedDate>3/11/2014</PostedDate>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3H0P56WP3F0XJMGBNP</SimilarJobsURL>
+      <JobTitle>Photobooks Marketing Intern</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/ty/mwm4b96tx8ybh3t6dty.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Shutterfly, Inc.</Company>
+      <CompanyDID>chv89l6y6k43hwrv269</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.com/jobs/company/chv89l6y6k43hwrv269/shutterfly-inc/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G4BH6VMRGL3D0LX15</DID>
+      <OnetCode>19-3021.00</OnetCode>
+      <ONetFriendlyTitle>Market Research Analysts</ONetFriendlyTitle>
+      <DescriptionTeaser>The intern will be part of the Customer Insights and Analysis team working closely with senior management. The intern will concentrate on leveraging...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time</EmploymentType>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3G4BH6VMRGL3D0LX15</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G4BH6VMRGL3D0LX15&amp;HostSite=US&amp;DeveloperKey=WDHS54569PZ5S5SPPVHH</JobServiceURL>
+      <Location>CA - Redwood City</Location>
+      <LocationLatitude>37.48417</LocationLatitude>
+      <LocationLongitude>-122.2271</LocationLongitude>
+      <PostedDate>3/4/2014</PostedDate>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3G4BH6VMRGL3D0LX15</SimilarJobsURL>
+      <JobTitle>Customer Insights &amp; Analytics Intern</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/ty/mwm4b96tx8ybh3t6dty.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Citrix</Company>
+      <CompanyDID>chq39269lh6pts887gw</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.com/jobs/company/chq39269lh6pts887gw/citrix/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F6QT6NT29HZ9PMZ2D</DID>
+      <OnetCode>13-2051.00</OnetCode>
+      <ONetFriendlyTitle>Financial Analysts</ONetFriendlyTitle>
+      <DescriptionTeaser>Because Citrix continues to grow rapidly, we are looking for bright, enthusiastic college students who enjoy working in a dynamic, fast-paced...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time</EmploymentType>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3F6QT6NT29HZ9PMZ2D</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F6QT6NT29HZ9PMZ2D&amp;HostSite=US&amp;DeveloperKey=WDHS54569PZ5S5SPPVHH</JobServiceURL>
+      <Location>CA - Santa Clara</Location>
+      <LocationLatitude>37.3555</LocationLatitude>
+      <LocationLongitude>-121.95426</LocationLongitude>
+      <PostedDate>3/3/2014</PostedDate>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3F6QT6NT29HZ9PMZ2D</SimilarJobsURL>
+      <JobTitle>Finance Intern</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/bl/mrs7w778mp7b3rd6qbl.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Next Generation Marketing</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHN6R16MCG9FX397CBN</DID>
+      <OnetCode>27-3031.00</OnetCode>
+      <ONetFriendlyTitle>Public Relations Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Entry Level Marketing Assistant Entry Level Marketing / Entry Level Advertising / Entry Level Management We are a leading retail event based marketing...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time</EmploymentType>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHN6R16MCG9FX397CBN</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHN6R16MCG9FX397CBN&amp;HostSite=US&amp;DeveloperKey=WDHS54569PZ5S5SPPVHH</JobServiceURL>
+      <Location>CA - Pleasanton and Surrounding Areas</Location>
+      <LocationLatitude>37.65803</LocationLatitude>
+      <LocationLongitude>-121.87722</LocationLongitude>
+      <PostedDate>3/20/2014</PostedDate>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHN6R16MCG9FX397CBN</SimilarJobsURL>
+      <JobTitle>Entry Level Marketing Assistant</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>UL LLC</Company>
+      <CompanyDID>chr4395wgq3pbrd103b</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.com/jobs/company/chr4395wgq3pbrd103b/ul-llc/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JHT3NQ63RDND4LL3DH5</DID>
+      <OnetCode>19-4031.00</OnetCode>
+      <ONetFriendlyTitle>Chemical Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Summer Intern - WiSE Laboratory Assistant We are seeking 20 enthusiastic college students who are eager to learn about testing the newest wireless...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time</EmploymentType>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHT3NQ63RDND4LL3DH5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHT3NQ63RDND4LL3DH5&amp;HostSite=US&amp;DeveloperKey=WDHS54569PZ5S5SPPVHH</JobServiceURL>
+      <Location>CA - Fremont</Location>
+      <LocationLatitude>37.55091</LocationLatitude>
+      <LocationLongitude>-121.98217</LocationLongitude>
+      <PostedDate>3/18/2014</PostedDate>
+      <Pay>$14.00/hour</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHT3NQ63RDND4LL3DH5</SimilarJobsURL>
+      <JobTitle>Summer Intern - WiSE Laboratory Assistant</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/4r/mrk0xz6vr6x3f3y334r.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>UL LLC</Company>
+      <CompanyDID>chr4395wgq3pbrd103b</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.com/jobs/company/chr4395wgq3pbrd103b/ul-llc/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JHT5516TBRDBVDRT86M</DID>
+      <OnetCode>19-4031.00</OnetCode>
+      <ONetFriendlyTitle>Chemical Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Summer Intern - WiSE Laboratory Assistant We are seeking 20 enthusiastic and eager individuals to experience testing the newest wireless technology at...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time</EmploymentType>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHT5516TBRDBVDRT86M</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHT5516TBRDBVDRT86M&amp;HostSite=US&amp;DeveloperKey=WDHS54569PZ5S5SPPVHH</JobServiceURL>
+      <Location>CA - Fremont</Location>
+      <LocationLatitude>37.55091</LocationLatitude>
+      <LocationLongitude>-121.98217</LocationLongitude>
+      <PostedDate>3/19/2014</PostedDate>
+      <Pay>$14.00/hour</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHT5516TBRDBVDRT86M</SimilarJobsURL>
+      <JobTitle>Summer Intern - WiSE Laboratory Assistant</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/4r/mrk0xz6vr6x3f3y334r.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>AT&amp;T Corporate Support</Company>
+      <CompanyDID>c8b1pp5vzcpxrknr36t</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.com/jobs/company/c8b1pp5vzcpxrknr36t/at-t-corporate-support/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F3ND6NK9C4ZWBCG37</DID>
+      <OnetCode>11-9021.00</OnetCode>
+      <ONetFriendlyTitle>Construction Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>2014 AT&amp;T Summer Intern - Project Manager Design &amp; Construction Innovation, technology, teamwork, exceptional customer service……..do those words...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time</EmploymentType>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3F3ND6NK9C4ZWBCG37</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F3ND6NK9C4ZWBCG37&amp;HostSite=US&amp;DeveloperKey=WDHS54569PZ5S5SPPVHH</JobServiceURL>
+      <Location>CA - San Ramon</Location>
+      <LocationLatitude>37.77686</LocationLatitude>
+      <LocationLongitude>-121.96729</LocationLongitude>
+      <PostedDate>3/28/2014</PostedDate>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3F3ND6NK9C4ZWBCG37</SimilarJobsURL>
+      <JobTitle>2014 Summer Intern Project Manager Design &amp; Construction</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/x2/mrk6jb6xskwxr7kdyx2.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>LG Electronics</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0066GRL81D6GHYY0</DID>
+      <OnetCode>15-1011.00</OnetCode>
+      <ONetFriendlyTitle>Computer and Information Scientists, Research</ONetFriendlyTitle>
+      <DescriptionTeaser>LG Electronics Mobile Research Lab is looking for highly innovative and talented individuals to work on exciting next generation multimedia...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time</EmploymentType>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3H0066GRL81D6GHYY0</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0066GRL81D6GHYY0&amp;HostSite=US&amp;DeveloperKey=WDHS54569PZ5S5SPPVHH</JobServiceURL>
+      <Location>CA - San Jose</Location>
+      <LocationLatitude>37.33847</LocationLatitude>
+      <LocationLongitude>-121.88579</LocationLongitude>
+      <PostedDate>3/20/2014</PostedDate>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3H0066GRL81D6GHYY0</SimilarJobsURL>
+      <JobTitle>Multimedia Intern</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>LG Electronics</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H6K66XVSQ714NPCPB</DID>
+      <OnetCode>15-1032.00</OnetCode>
+      <ONetFriendlyTitle>Computer Software Engineers, Systems Software</ONetFriendlyTitle>
+      <DescriptionTeaser>LGE SAN JOSE LAB IS AN INNOVATIVE R&amp;D GROUP LEADING THE DEVELOPMENT OF SOCS FOR FUTURE SMART DEVICES AND INTERNET-OF THINGS. WE ARE CURRENTLY SEEKING...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time</EmploymentType>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3H6K66XVSQ714NPCPB</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H6K66XVSQ714NPCPB&amp;HostSite=US&amp;DeveloperKey=WDHS54569PZ5S5SPPVHH</JobServiceURL>
+      <Location>CA - San Jose</Location>
+      <LocationLatitude>37.33847</LocationLatitude>
+      <LocationLongitude>-121.88579</LocationLongitude>
+      <PostedDate>3/29/2014</PostedDate>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3H6K66XVSQ714NPCPB</SimilarJobsURL>
+      <JobTitle>Temporary Embedded Software Intern</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>NGM</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHM0ZP76DVBT56SHC8Q</DID>
+      <OnetCode>41-1012.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Sales Staff (Non-Retail)</ONetFriendlyTitle>
+      <DescriptionTeaser>Marketing Coordinator Needed Immediately! NGM is an event based marketing firm in the Pleasanton and East Bay area. Our devoted company is one of the...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time/Part-Time</EmploymentType>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHM0ZP76DVBT56SHC8Q</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHM0ZP76DVBT56SHC8Q&amp;HostSite=US&amp;DeveloperKey=WDHS54569PZ5S5SPPVHH</JobServiceURL>
+      <Location>CA - Pleasanton</Location>
+      <LocationLatitude>37.65803</LocationLatitude>
+      <LocationLongitude>-121.87722</LocationLongitude>
+      <PostedDate>3/12/2014</PostedDate>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHM0ZP76DVBT56SHC8Q</SimilarJobsURL>
+      <JobTitle>Marketing Coordinator Needed Immediately!</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Immediate Hire</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHT3V36N1FJZMF2FZ8J</DID>
+      <OnetCode>27-3031.00</OnetCode>
+      <ONetFriendlyTitle>Public Relations Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>E vent Planning - Retail / Marketing / Events - Full Training We are a leading Event / Promotions and Retail Marketing firm in the PLEASANTON area. We...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time</EmploymentType>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHT3V36N1FJZMF2FZ8J</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHT3V36N1FJZMF2FZ8J&amp;HostSite=US&amp;DeveloperKey=WDHS54569PZ5S5SPPVHH</JobServiceURL>
+      <Location>CA - Pleasanton</Location>
+      <LocationLatitude>37.65803</LocationLatitude>
+      <LocationLongitude>-121.87722</LocationLongitude>
+      <PostedDate>3/20/2014</PostedDate>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHT3V36N1FJZMF2FZ8J</SimilarJobsURL>
+      <JobTitle>Event Planning - Marketing/Events - Full Training</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Roche Molecular Systems, Inc.</Company>
+      <CompanyDID>c7x2s76rcbx2t6l5g9l</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.com/jobs/company/c7x2s76rcbx2t6l5g9l/roche-molecular-systems-inc/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F2Y563LQQFXY2XHL0</DID>
+      <OnetCode>19-3021.00</OnetCode>
+      <ONetFriendlyTitle>Market Research Analysts</ONetFriendlyTitle>
+      <DescriptionTeaser>Roche Molecular Systems Inc. The MORE department is looking for a qualified graduate student to conduct a thorough assessment and build a business...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intern</EmploymentType>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3F2Y563LQQFXY2XHL0</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F2Y563LQQFXY2XHL0&amp;HostSite=US&amp;DeveloperKey=WDHS54569PZ5S5SPPVHH</JobServiceURL>
+      <Location>CA - Pleasanton</Location>
+      <LocationLatitude>37.692</LocationLatitude>
+      <LocationLongitude>-121.8937</LocationLongitude>
+      <PostedDate>4/1/2014</PostedDate>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3F2Y563LQQFXY2XHL0</SimilarJobsURL>
+      <JobTitle>Summer Intern - Medical Outcomes, Reimbursement &amp; Economics</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/wc/m7x3km72x83l1sw1bwc.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Becton Dickinson</Company>
+      <CompanyDID>chr5fm60wrfwc1rzlld</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.com/jobs/company/chr5fm60wrfwc1rzlld/becton-dickinson/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H87S72GQ2S7LPSH6S</DID>
+      <OnetCode>19-4021.00</OnetCode>
+      <ONetFriendlyTitle>Biological Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Description This is a TEMPORARY 3-MONTH SUMMER INTERNSHIP POSITION at BD Biosciences. Candidates will be students from local universities who are...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time</EmploymentType>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3H87S72GQ2S7LPSH6S</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H87S72GQ2S7LPSH6S&amp;HostSite=US&amp;DeveloperKey=WDHS54569PZ5S5SPPVHH</JobServiceURL>
+      <Location>CA - San Jose</Location>
+      <LocationLatitude>37.33847</LocationLatitude>
+      <LocationLongitude>-121.88579</LocationLongitude>
+      <PostedDate>3/14/2014</PostedDate>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3H87S72GQ2S7LPSH6S</SimilarJobsURL>
+      <JobTitle>Summer Intern Solid Tumor</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/c7/mrm0tg62g11bpym2wc7.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Citrix</Company>
+      <CompanyDID>chq39269lh6pts887gw</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.com/jobs/company/chq39269lh6pts887gw/citrix/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G0RT6XJ4W7SLJ2SPM</DID>
+      <OnetCode>19-3021.00</OnetCode>
+      <ONetFriendlyTitle>Market Research Analysts</ONetFriendlyTitle>
+      <DescriptionTeaser>Because Citrix continues to rapidly grow, we are looking for bright, enthusiastic college graduates who enjoy working in a dynamic, fast-paced...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time</EmploymentType>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3G0RT6XJ4W7SLJ2SPM</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G0RT6XJ4W7SLJ2SPM&amp;HostSite=US&amp;DeveloperKey=WDHS54569PZ5S5SPPVHH</JobServiceURL>
+      <Location>CA - Santa Clara</Location>
+      <LocationLatitude>37.3555</LocationLatitude>
+      <LocationLongitude>-121.95426</LocationLongitude>
+      <PostedDate>3/3/2014</PostedDate>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3G0RT6XJ4W7SLJ2SPM</SimilarJobsURL>
+      <JobTitle>Marketing Intern</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/bl/mrs7w778mp7b3rd6qbl.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Becton Dickinson</Company>
+      <CompanyDID>chr5fm60wrfwc1rzlld</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.com/jobs/company/chr5fm60wrfwc1rzlld/becton-dickinson/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J4B15VP8K516403VQ</DID>
+      <OnetCode>17-2031.00</OnetCode>
+      <ONetFriendlyTitle>Biomedical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Description This is a TEMPORARY 3-MONTH SUMMER INTERNSHIP POSITION at BD Biosciences with the Hardware Engineering group. Candidates will be students...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time</EmploymentType>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3J4B15VP8K516403VQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J4B15VP8K516403VQ&amp;HostSite=US&amp;DeveloperKey=WDHS54569PZ5S5SPPVHH</JobServiceURL>
+      <Location>CA - San Jose</Location>
+      <LocationLatitude>37.33847</LocationLatitude>
+      <LocationLongitude>-121.88579</LocationLongitude>
+      <PostedDate>3/12/2014</PostedDate>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3J4B15VP8K516403VQ</SimilarJobsURL>
+      <JobTitle>Summer Intern Research and Development Engineering</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/c7/mrm0tg62g11bpym2wc7.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>AT&amp;T Corporate Support</Company>
+      <CompanyDID>c8b1pp5vzcpxrknr36t</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.com/jobs/company/c8b1pp5vzcpxrknr36t/at-t-corporate-support/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H4KQ77B0XDL6521CR</DID>
+      <OnetCode>19-3021.00</OnetCode>
+      <ONetFriendlyTitle>Market Research Analysts</ONetFriendlyTitle>
+      <DescriptionTeaser>AT&amp;T Summer Intern Product Marketing Manager Palo Alto CA Innovation, technology, teamwork, exceptional customer service……..do those words resonate...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time</EmploymentType>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3H4KQ77B0XDL6521CR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H4KQ77B0XDL6521CR&amp;HostSite=US&amp;DeveloperKey=WDHS54569PZ5S5SPPVHH</JobServiceURL>
+      <Location>CA - Palo Alto</Location>
+      <LocationLatitude>37.44466</LocationLatitude>
+      <LocationLongitude>-122.16079</LocationLongitude>
+      <PostedDate>3/21/2014</PostedDate>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3H4KQ77B0XDL6521CR</SimilarJobsURL>
+      <JobTitle>2014 Summer College Intern Product Marketing Manager</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/x2/mrk6jb6xskwxr7kdyx2.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Hewlett-Packard</Company>
+      <CompanyDID>c35ts6xydcrcrcf4j8</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.com/jobs/company/c35ts6xydcrcrcf4j8/hewlett-packard/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H14266HRCLR7K0644</DID>
+      <OnetCode>15-1021.00</OnetCode>
+      <ONetFriendlyTitle>Computer Programmers</ONetFriendlyTitle>
+      <DescriptionTeaser>HP Labs is seeking four-year university students who are working in a technical internship role at hp during their summer breaks between university...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time</EmploymentType>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3H14266HRCLR7K0644</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H14266HRCLR7K0644&amp;HostSite=US&amp;DeveloperKey=WDHS54569PZ5S5SPPVHH</JobServiceURL>
+      <Location>CA - Palo Alto</Location>
+      <LocationLatitude>37.4059</LocationLatitude>
+      <LocationLongitude>-122.1462</LocationLongitude>
+      <PostedDate>3/7/2014</PostedDate>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3H14266HRCLR7K0644</SimilarJobsURL>
+      <JobTitle>HP Labs- Automated Digital Fabrication Systems Intern</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/yq/mr03kl6kxpk8344l7yq.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ITT Educational Services Inc.</Company>
+      <CompanyDID>c8d2nr6kx9ylfcwq8vf</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.com/jobs/company/c8d2nr6kx9ylfcwq8vf/itt-educational-services-inc/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H63F6MDH5GMCJS8WK</DID>
+      <OnetCode>25-1021.00</OnetCode>
+      <ONetFriendlyTitle>Computer Science Teachers, Postsecondary</ONetFriendlyTitle>
+      <DescriptionTeaser>ITT Technical Institute is a leading provider of technology-oriented postsecondary degree programs designed to help students develop skills and...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-Time</EmploymentType>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3H63F6MDH5GMCJS8WK</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H63F6MDH5GMCJS8WK&amp;HostSite=US&amp;DeveloperKey=WDHS54569PZ5S5SPPVHH</JobServiceURL>
+      <Location>CA - Oakland</Location>
+      <LocationLatitude>37.7371</LocationLatitude>
+      <LocationLongitude>-122.2065</LocationLongitude>
+      <PostedDate>4/1/2014</PostedDate>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3H63F6MDH5GMCJS8WK</SimilarJobsURL>
+      <JobTitle>Computer Networking Instructor - Adjunct</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/g6/i7x1tg6w3k8qg26lrg6.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Becton Dickinson</Company>
+      <CompanyDID>chr5fm60wrfwc1rzlld</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.com/jobs/company/chr5fm60wrfwc1rzlld/becton-dickinson/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J6TD61RWP8XR5LGRX</DID>
+      <OnetCode>19-4021.00</OnetCode>
+      <ONetFriendlyTitle>Biological Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Description This is a TEMPORARY 3-MONTH SUMMER INTERNSHIP POSITION at BD Biosciences. Candidates will be students from local universities who are...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time</EmploymentType>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3J6TD61RWP8XR5LGRX</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J6TD61RWP8XR5LGRX&amp;HostSite=US&amp;DeveloperKey=WDHS54569PZ5S5SPPVHH</JobServiceURL>
+      <Location>CA - San Jose</Location>
+      <LocationLatitude>37.33847</LocationLatitude>
+      <LocationLongitude>-121.88579</LocationLongitude>
+      <PostedDate>3/14/2014</PostedDate>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3J6TD61RWP8XR5LGRX</SimilarJobsURL>
+      <JobTitle>Summer Intern R&amp;D Reagents and Applications</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/c7/mrm0tg62g11bpym2wc7.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Berlitz Languages</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F5D078GK4QCKCWK3K</DID>
+      <OnetCode>25-2031.00</OnetCode>
+      <ONetFriendlyTitle>Secondary School Teachers</ONetFriendlyTitle>
+      <DescriptionTeaser>PART-TIME LANGUAGE INSTRUCTOR THE BERLITZ ADVANTAGE Berlitz is the premier provider of language training and cultural services with over 500 locations...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-Time</EmploymentType>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3F5D078GK4QCKCWK3K</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F5D078GK4QCKCWK3K&amp;HostSite=US&amp;DeveloperKey=WDHS54569PZ5S5SPPVHH</JobServiceURL>
+      <Location>CA - Palo Alto</Location>
+      <LocationLatitude>37.44466</LocationLatitude>
+      <LocationLongitude>-122.16079</LocationLongitude>
+      <PostedDate>3/25/2014</PostedDate>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3F5D078GK4QCKCWK3K</SimilarJobsURL>
+      <JobTitle>Part-time Language Instructor - Korean (Teacher / Education)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Berlitz Languages</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H35Q6TB88X3BQKKY5</DID>
+      <OnetCode>25-2031.00</OnetCode>
+      <ONetFriendlyTitle>Secondary School Teachers</ONetFriendlyTitle>
+      <DescriptionTeaser>PART-TIME LANGUAGE INSTRUCTOR THE BERLITZ ADVANTAGE Berlitz is the premier provider of language training and cultural services with over 500 locations...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-Time</EmploymentType>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3H35Q6TB88X3BQKKY5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H35Q6TB88X3BQKKY5&amp;HostSite=US&amp;DeveloperKey=WDHS54569PZ5S5SPPVHH</JobServiceURL>
+      <Location>CA - Palo Alto</Location>
+      <LocationLatitude>37.44466</LocationLatitude>
+      <LocationLongitude>-122.16079</LocationLongitude>
+      <PostedDate>3/17/2014</PostedDate>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3H35Q6TB88X3BQKKY5</SimilarJobsURL>
+      <JobTitle>Part-time Language Instructor - Dutch (Teacher / Education)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Shutterfly, Inc.</Company>
+      <CompanyDID>chv89l6y6k43hwrv269</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.com/jobs/company/chv89l6y6k43hwrv269/shutterfly-inc/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F3DW60P3W5YZ049W3</DID>
+      <OnetCode>27-1024.00</OnetCode>
+      <ONetFriendlyTitle>Graphic Designers</ONetFriendlyTitle>
+      <DescriptionTeaser>Shutterfly’s Creative Group is responsible for the visual and written expression of the Shutterfly brand. Our work ranges from the presentation layer...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time</EmploymentType>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3F3DW60P3W5YZ049W3</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F3DW60P3W5YZ049W3&amp;HostSite=US&amp;DeveloperKey=WDHS54569PZ5S5SPPVHH</JobServiceURL>
+      <Location>CA - Redwood City</Location>
+      <LocationLatitude>37.48417</LocationLatitude>
+      <LocationLongitude>-122.2271</LocationLongitude>
+      <PostedDate>3/6/2014</PostedDate>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3F3DW60P3W5YZ049W3</SimilarJobsURL>
+      <JobTitle>Creative Design Intern</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/ty/mwm4b96tx8ybh3t6dty.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Shutterfly, Inc.</Company>
+      <CompanyDID>chv89l6y6k43hwrv269</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.com/jobs/company/chv89l6y6k43hwrv269/shutterfly-inc/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G0X26GXZJ4CT3TNDC</DID>
+      <OnetCode>27-3043.04</OnetCode>
+      <ONetFriendlyTitle>Copy Writers</ONetFriendlyTitle>
+      <DescriptionTeaser>Copywriter Internship We are hiring an intern to help us elevate and evolve the Tiny Prints, Wedding Paper Divas and Treat voice through a variety of...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time</EmploymentType>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3G0X26GXZJ4CT3TNDC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G0X26GXZJ4CT3TNDC&amp;HostSite=US&amp;DeveloperKey=WDHS54569PZ5S5SPPVHH</JobServiceURL>
+      <Location>CA - Santa Clara</Location>
+      <LocationLatitude>37.3555</LocationLatitude>
+      <LocationLongitude>-121.95426</LocationLongitude>
+      <PostedDate>3/6/2014</PostedDate>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3G0X26GXZJ4CT3TNDC</SimilarJobsURL>
+      <JobTitle>Creative Copywriter Intern</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/ty/mwm4b96tx8ybh3t6dty.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ITT Educational Services Inc.</Company>
+      <CompanyDID>c8d2nr6kx9ylfcwq8vf</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.com/jobs/company/c8d2nr6kx9ylfcwq8vf/itt-educational-services-inc/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G5XQ6H04PLJVZL46T</DID>
+      <OnetCode>25-1194.00</OnetCode>
+      <ONetFriendlyTitle>Vocational Education Teachers, Postsecondary</ONetFriendlyTitle>
+      <DescriptionTeaser>ITT Technical Institute is a leading provider of technology-oriented postsecondary degree programs designed to help students develop skills and...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-Time</EmploymentType>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3G5XQ6H04PLJVZL46T</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G5XQ6H04PLJVZL46T&amp;HostSite=US&amp;DeveloperKey=WDHS54569PZ5S5SPPVHH</JobServiceURL>
+      <Location>CA - Oakland</Location>
+      <LocationLatitude>37.7371</LocationLatitude>
+      <LocationLongitude>-122.2065</LocationLongitude>
+      <PostedDate>4/1/2014</PostedDate>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3G5XQ6H04PLJVZL46T</SimilarJobsURL>
+      <JobTitle>Math Instructor - Adjunct</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/g6/i7x1tg6w3k8qg26lrg6.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ITT Educational Services Inc.</Company>
+      <CompanyDID>c8d2nr6kx9ylfcwq8vf</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.com/jobs/company/c8d2nr6kx9ylfcwq8vf/itt-educational-services-inc/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H0HT67JPBQR693QMK</DID>
+      <OnetCode>25-1194.00</OnetCode>
+      <ONetFriendlyTitle>Vocational Education Teachers, Postsecondary</ONetFriendlyTitle>
+      <DescriptionTeaser>ITT Technical Institute is a leading provider of technology-oriented postsecondary degree programs designed to help students develop skills and...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-Time</EmploymentType>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3H0HT67JPBQR693QMK</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0HT67JPBQR693QMK&amp;HostSite=US&amp;DeveloperKey=WDHS54569PZ5S5SPPVHH</JobServiceURL>
+      <Location>CA - Oakland</Location>
+      <LocationLatitude>37.7371</LocationLatitude>
+      <LocationLongitude>-122.2065</LocationLongitude>
+      <PostedDate>4/1/2014</PostedDate>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3H0HT67JPBQR693QMK</SimilarJobsURL>
+      <JobTitle>Computer Drafting and Design Instructor - Adjunct</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/g6/i7x1tg6w3k8qg26lrg6.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ITT Educational Services Inc.</Company>
+      <CompanyDID>c8d2nr6kx9ylfcwq8vf</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.com/jobs/company/c8d2nr6kx9ylfcwq8vf/itt-educational-services-inc/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F0JF77X3NX8T9VTWK</DID>
+      <OnetCode>25-1194.00</OnetCode>
+      <ONetFriendlyTitle>Vocational Education Teachers, Postsecondary</ONetFriendlyTitle>
+      <DescriptionTeaser>ITT Technical Institute is a leading provider of technology-oriented postsecondary degree programs designed to help students develop skills and...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-Time</EmploymentType>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3F0JF77X3NX8T9VTWK</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F0JF77X3NX8T9VTWK&amp;HostSite=US&amp;DeveloperKey=WDHS54569PZ5S5SPPVHH</JobServiceURL>
+      <Location>CA - Oakland</Location>
+      <LocationLatitude>37.7371</LocationLatitude>
+      <LocationLongitude>-122.2065</LocationLongitude>
+      <PostedDate>4/1/2014</PostedDate>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3F0JF77X3NX8T9VTWK</SimilarJobsURL>
+      <JobTitle>Electronics Telecommunications Instructor - Adjunct</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/g6/i7x1tg6w3k8qg26lrg6.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ITT Educational Services Inc.</Company>
+      <CompanyDID>c8d2nr6kx9ylfcwq8vf</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.com/jobs/company/c8d2nr6kx9ylfcwq8vf/itt-educational-services-inc/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H10W6STQR6GP3N52B</DID>
+      <OnetCode>25-1194.00</OnetCode>
+      <ONetFriendlyTitle>Vocational Education Teachers, Postsecondary</ONetFriendlyTitle>
+      <DescriptionTeaser>ITT Technical Institute is a leading provider of technology-oriented postsecondary degree programs designed to help students develop skills and...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-Time</EmploymentType>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3H10W6STQR6GP3N52B</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H10W6STQR6GP3N52B&amp;HostSite=US&amp;DeveloperKey=WDHS54569PZ5S5SPPVHH</JobServiceURL>
+      <Location>CA - Oakland</Location>
+      <LocationLatitude>37.7371</LocationLatitude>
+      <LocationLongitude>-122.2065</LocationLongitude>
+      <PostedDate>4/1/2014</PostedDate>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3H10W6STQR6GP3N52B</SimilarJobsURL>
+      <JobTitle>Business Administration Instructor - Adjunct</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/g6/i7x1tg6w3k8qg26lrg6.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Becton Dickinson</Company>
+      <CompanyDID>chr5fm60wrfwc1rzlld</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.com/jobs/company/chr5fm60wrfwc1rzlld/becton-dickinson/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F4476VJ0LVSH7NG42</DID>
+      <OnetCode>19-3021.00</OnetCode>
+      <ONetFriendlyTitle>Market Research Analysts</ONetFriendlyTitle>
+      <DescriptionTeaser>Description At BD, MBA Interns drive influence and change. Customized projects and assignments enable you to accelerate their career through both...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time</EmploymentType>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3F4476VJ0LVSH7NG42</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F4476VJ0LVSH7NG42&amp;HostSite=US&amp;DeveloperKey=WDHS54569PZ5S5SPPVHH</JobServiceURL>
+      <Location>CA - San Jose</Location>
+      <LocationLatitude>37.33847</LocationLatitude>
+      <LocationLongitude>-121.88579</LocationLongitude>
+      <PostedDate>3/3/2014</PostedDate>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3F4476VJ0LVSH7NG42</SimilarJobsURL>
+      <JobTitle>Marketing Intern</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/c7/mrm0tg62g11bpym2wc7.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHT37274TR8KQDCVJFW</DID>
+      <OnetCode>25-3099.02</OnetCode>
+      <ONetFriendlyTitle>Tutors</ONetFriendlyTitle>
+      <DescriptionTeaser>General Description: Under the direct supervision of the SES Program Manager, the SES Specialist will provide one on one tutoring services in the...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-Time</EmploymentType>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHT37274TR8KQDCVJFW</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHT37274TR8KQDCVJFW&amp;HostSite=US&amp;DeveloperKey=WDHS54569PZ5S5SPPVHH</JobServiceURL>
+      <Location>CA - San Jose</Location>
+      <LocationLatitude>37.33847</LocationLatitude>
+      <LocationLongitude>-121.88579</LocationLongitude>
+      <PostedDate>4/2/2014</PostedDate>
+      <Pay>$15.00 - $19.00/hour</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHT37274TR8KQDCVJFW</SimilarJobsURL>
+      <JobTitle>Academic Tutor</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Devry University</Company>
+      <CompanyDID>c37906sfd1zfpt1mvq</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.com/jobs/company/c37906sfd1zfpt1mvq/devry-university/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H87N60TCFNXBK4NMF</DID>
+      <OnetCode>25-3099.02</OnetCode>
+      <ONetFriendlyTitle>Tutors</ONetFriendlyTitle>
+      <DescriptionTeaser>Provides academic tutoring services to a variety of individuals and groups.  Creates and implements tutorial programs that guide and assist students...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-Time</EmploymentType>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3H87N60TCFNXBK4NMF</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H87N60TCFNXBK4NMF&amp;HostSite=US&amp;DeveloperKey=WDHS54569PZ5S5SPPVHH</JobServiceURL>
+      <Location>CA - San Leandro</Location>
+      <LocationLatitude>37.7053</LocationLatitude>
+      <LocationLongitude>-122.1277</LocationLongitude>
+      <PostedDate>3/6/2014</PostedDate>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3H87N60TCFNXBK4NMF</SimilarJobsURL>
+      <JobTitle>Math Tutor-Temporary-Part-time</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/vq/myn33h6lprrl28llkvq.png</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Devry University</Company>
+      <CompanyDID>c37906sfd1zfpt1mvq</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.com/jobs/company/c37906sfd1zfpt1mvq/devry-university/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G11R78MGDBZ2NQYFS</DID>
+      <OnetCode>25-1194.00</OnetCode>
+      <ONetFriendlyTitle>Vocational Education Teachers, Postsecondary</ONetFriendlyTitle>
+      <DescriptionTeaser>As an instructor at Carrington College California you will be responsible for delivering a quality educational experience for the students in the...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-Time</EmploymentType>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3G11R78MGDBZ2NQYFS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G11R78MGDBZ2NQYFS&amp;HostSite=US&amp;DeveloperKey=WDHS54569PZ5S5SPPVHH</JobServiceURL>
+      <Location>CA - San Leandro</Location>
+      <LocationLatitude>37.7164</LocationLatitude>
+      <LocationLongitude>-122.1648</LocationLongitude>
+      <PostedDate>3/7/2014</PostedDate>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3G11R78MGDBZ2NQYFS</SimilarJobsURL>
+      <JobTitle>Dental Assisting Instructor (Part-Time Mornings) - San Leandro</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/vq/myn33h6lprrl28llkvq.png</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>West Valley-Mission Community College District</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHL2V263VX818NCTTMD</DID>
+      <OnetCode>11-9033.00</OnetCode>
+      <ONetFriendlyTitle>Education Administrators, Postsecondary</ONetFriendlyTitle>
+      <DescriptionTeaser>Physical Education &amp; Athletic Operations Coordinator   West Valley-Mission Community College District   Closing Date: 4/3/2014   Definition:  The...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time</EmploymentType>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHL2V263VX818NCTTMD</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHL2V263VX818NCTTMD&amp;HostSite=US&amp;DeveloperKey=WDHS54569PZ5S5SPPVHH</JobServiceURL>
+      <Location>CA - Saratoga</Location>
+      <LocationLatitude>37.2658</LocationLatitude>
+      <LocationLongitude>-122.01369</LocationLongitude>
+      <PostedDate>3/18/2014</PostedDate>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHL2V263VX818NCTTMD</SimilarJobsURL>
+      <JobTitle>Physical Education &amp; Athletic Operations Coordinator</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Vector Marketing</Company>
+      <CompanyDID>c8b57g6z3drdgpgcfps</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.com/jobs/company/c8b57g6z3drdgpgcfps/vector-marketing/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H5PG66SYZ6XVBJ124</DID>
+      <OnetCode>99-9999.01</OnetCode>
+      <ONetFriendlyTitle>Work from Home</ONetFriendlyTitle>
+      <DescriptionTeaser>Entry Level Sales / Customer Service – Part time / Full Time     Looking for a company that cares more about your attitude and willingness to learn...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-Time</EmploymentType>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3H5PG66SYZ6XVBJ124</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H5PG66SYZ6XVBJ124&amp;HostSite=US&amp;DeveloperKey=WDHS54569PZ5S5SPPVHH</JobServiceURL>
+      <Location>CA - Campbell</Location>
+      <LocationLatitude>37.2798</LocationLatitude>
+      <LocationLongitude>-121.955</LocationLongitude>
+      <PostedDate>3/25/2014</PostedDate>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3H5PG66SYZ6XVBJ124</SimilarJobsURL>
+      <JobTitle>Entry Level Sales / Customer Service – Part time / Full Time</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/sn/mvc5bk6sxgn0g9zn0sn.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Vector Marketing</Company>
+      <CompanyDID>c8b57g6z3drdgpgcfps</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.com/jobs/company/c8b57g6z3drdgpgcfps/vector-marketing/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H7Z86DD8BZ3PF05SK</DID>
+      <OnetCode>99-9999.01</OnetCode>
+      <ONetFriendlyTitle>Work from Home</ONetFriendlyTitle>
+      <DescriptionTeaser>Entry Level Sales / Customer Service – Part time / Full Time     Looking for a company that cares more about your attitude and willingness to learn...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-Time</EmploymentType>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3H7Z86DD8BZ3PF05SK</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H7Z86DD8BZ3PF05SK&amp;HostSite=US&amp;DeveloperKey=WDHS54569PZ5S5SPPVHH</JobServiceURL>
+      <Location>CA - Fremont</Location>
+      <LocationLatitude>37.571</LocationLatitude>
+      <LocationLongitude>-121.9858</LocationLongitude>
+      <PostedDate>3/25/2014</PostedDate>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3H7Z86DD8BZ3PF05SK</SimilarJobsURL>
+      <JobTitle>Entry Level Sales / Customer Service – Part time / Full Time</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/sn/mvc5bk6sxgn0g9zn0sn.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Vector Marketing</Company>
+      <CompanyDID>c8b57g6z3drdgpgcfps</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.com/jobs/company/c8b57g6z3drdgpgcfps/vector-marketing/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F48N78Q52CSXVP697</DID>
+      <OnetCode>99-9999.01</OnetCode>
+      <ONetFriendlyTitle>Work from Home</ONetFriendlyTitle>
+      <DescriptionTeaser>Entry Level Sales / Customer Service – Part time / Full Time     Looking for a company that cares more about your attitude and willingness to learn...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-Time</EmploymentType>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3F48N78Q52CSXVP697</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F48N78Q52CSXVP697&amp;HostSite=US&amp;DeveloperKey=WDHS54569PZ5S5SPPVHH</JobServiceURL>
+      <Location>CA - Campbell</Location>
+      <LocationLatitude>37.2798</LocationLatitude>
+      <LocationLongitude>-121.955</LocationLongitude>
+      <PostedDate>3/18/2014</PostedDate>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3F48N78Q52CSXVP697</SimilarJobsURL>
+      <JobTitle>Entry Level Sales / Customer Service – Part time / Full Time</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/sn/mvc5bk6sxgn0g9zn0sn.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Vector Marketing</Company>
+      <CompanyDID>c8b57g6z3drdgpgcfps</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.com/jobs/company/c8b57g6z3drdgpgcfps/vector-marketing/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G7CG6NGYQ1ZQ1MD3W</DID>
+      <OnetCode>99-9999.01</OnetCode>
+      <ONetFriendlyTitle>Work from Home</ONetFriendlyTitle>
+      <DescriptionTeaser>Entry Level Sales / Customer Service – Part time / Full Time     Looking for a company that cares more about your attitude and willingness to learn...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-Time</EmploymentType>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3G7CG6NGYQ1ZQ1MD3W</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G7CG6NGYQ1ZQ1MD3W&amp;HostSite=US&amp;DeveloperKey=WDHS54569PZ5S5SPPVHH</JobServiceURL>
+      <Location>CA - Campbell</Location>
+      <LocationLatitude>37.2798</LocationLatitude>
+      <LocationLongitude>-121.955</LocationLongitude>
+      <PostedDate>3/4/2014</PostedDate>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3G7CG6NGYQ1ZQ1MD3W</SimilarJobsURL>
+      <JobTitle>Entry Level Sales / Customer Service – Part time / Full Time</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/sn/mvc5bk6sxgn0g9zn0sn.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Devry University</Company>
+      <CompanyDID>c37906sfd1zfpt1mvq</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.com/jobs/company/c37906sfd1zfpt1mvq/devry-university/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J6JV6C0Y80CSSTW59</DID>
+      <OnetCode>25-1194.00</OnetCode>
+      <ONetFriendlyTitle>Vocational Education Teachers, Postsecondary</ONetFriendlyTitle>
+      <DescriptionTeaser>Are you an enthusiastic Pharmacy Technician or Instructor who loves to share your knowledge with other pharmacy technology professionals? If so, this...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-Time</EmploymentType>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3J6JV6C0Y80CSSTW59</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J6JV6C0Y80CSSTW59&amp;HostSite=US&amp;DeveloperKey=WDHS54569PZ5S5SPPVHH</JobServiceURL>
+      <Location>CA - San Leandro</Location>
+      <LocationLatitude>37.7164</LocationLatitude>
+      <LocationLongitude>-122.1648</LocationLongitude>
+      <PostedDate>4/2/2014</PostedDate>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3J6JV6C0Y80CSSTW59</SimilarJobsURL>
+      <JobTitle>Pharmacy Technology Instructor (Part-Time) - San Leandro</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/vq/myn33h6lprrl28llkvq.png</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H71D6T79XMJG0PCJT</DID>
+      <OnetCode>99-9999.09</OnetCode>
+      <ONetFriendlyTitle>Services Offered</ONetFriendlyTitle>
+      <DescriptionTeaser>Customer Service, Administrative, Finance, Construction, Healthcare, IT, - Army Reserve – Part Time The Army Reserve is designed for those who want to...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-Time</EmploymentType>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3H71D6T79XMJG0PCJT</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H71D6T79XMJG0PCJT&amp;HostSite=US&amp;DeveloperKey=WDHS54569PZ5S5SPPVHH</JobServiceURL>
+      <Location>CA - Palo Alto</Location>
+      <LocationLatitude>37.44466</LocationLatitude>
+      <LocationLongitude>-122.16079</LocationLongitude>
+      <PostedDate>3/28/2014</PostedDate>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3H71D6T79XMJG0PCJT</SimilarJobsURL>
+      <JobTitle>Administrative Support / Customer Service Opportunities</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>HasScreener</ApplyRequirement>
+        <ApplyRequirement>RequireUserInfo</ApplyRequirement>
+      </ApplyRequirements>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H70D6Q5SHNQ2YPJPN</DID>
+      <OnetCode>99-9999.09</OnetCode>
+      <ONetFriendlyTitle>Services Offered</ONetFriendlyTitle>
+      <DescriptionTeaser>Customer Service, Administrative, Finance, Construction, Healthcare, IT, - Army Reserve – Part Time The Army Reserve is designed for those who want to...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-Time</EmploymentType>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3H70D6Q5SHNQ2YPJPN</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H70D6Q5SHNQ2YPJPN&amp;HostSite=US&amp;DeveloperKey=WDHS54569PZ5S5SPPVHH</JobServiceURL>
+      <Location>CA - Gilroy</Location>
+      <LocationLatitude>37.00438</LocationLatitude>
+      <LocationLongitude>-121.57167</LocationLongitude>
+      <PostedDate>3/28/2014</PostedDate>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3H70D6Q5SHNQ2YPJPN</SimilarJobsURL>
+      <JobTitle>Administrative Support / Customer Service Opportunities</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>HasScreener</ApplyRequirement>
+        <ApplyRequirement>RequireUserInfo</ApplyRequirement>
+      </ApplyRequirements>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Becton Dickinson</Company>
+      <CompanyDID>chr5fm60wrfwc1rzlld</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.com/jobs/company/chr5fm60wrfwc1rzlld/becton-dickinson/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H6856MX6VT23B89WS</DID>
+      <OnetCode>19-3021.00</OnetCode>
+      <ONetFriendlyTitle>Market Research Analysts</ONetFriendlyTitle>
+      <DescriptionTeaser>Description We currently have an opportunity for a Summer Intern to work at our San Jose, BDB site. Under the direction of the Vice President of...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time</EmploymentType>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3H6856MX6VT23B89WS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H6856MX6VT23B89WS&amp;HostSite=US&amp;DeveloperKey=WDHS54569PZ5S5SPPVHH</JobServiceURL>
+      <Location>CA - San Jose</Location>
+      <LocationLatitude>37.33847</LocationLatitude>
+      <LocationLongitude>-121.88579</LocationLongitude>
+      <PostedDate>3/4/2014</PostedDate>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3H6856MX6VT23B89WS</SimilarJobsURL>
+      <JobTitle>New Product Development MBA Intern</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/c7/mrm0tg62g11bpym2wc7.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>United States Army</Company>
+      <CompanyDID>chr0035ws50dky458r6</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.com/jobs/company/chr0035ws50dky458r6/united-states-army/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H3RW6Z0TW7FCBZTHM</DID>
+      <OnetCode>49-3031.00</OnetCode>
+      <ONetFriendlyTitle>Bus and Truck Mechanics and Diesel Engine Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>The Army Reserve is designed for those who want to get the most out of the Army while pursuing their civilian careers and goals. Many professionals as...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-Time</EmploymentType>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3H3RW6Z0TW7FCBZTHM</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H3RW6Z0TW7FCBZTHM&amp;HostSite=US&amp;DeveloperKey=WDHS54569PZ5S5SPPVHH</JobServiceURL>
+      <Location>CA - Gilroy</Location>
+      <LocationLatitude>37.00438</LocationLatitude>
+      <LocationLongitude>-121.57167</LocationLongitude>
+      <PostedDate>3/31/2014</PostedDate>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3H3RW6Z0TW7FCBZTHM</SimilarJobsURL>
+      <JobTitle>Mechanic</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/zg/mr57km74s1nz0lj9szg.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>HasScreener</ApplyRequirement>
+        <ApplyRequirement>RequireUserInfo</ApplyRequirement>
+      </ApplyRequirements>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>United States Army</Company>
+      <CompanyDID>chr0035ws50dky458r6</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.com/jobs/company/chr0035ws50dky458r6/united-states-army/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G3C172XGVKYMRXMWT</DID>
+      <OnetCode>49-3031.00</OnetCode>
+      <ONetFriendlyTitle>Bus and Truck Mechanics and Diesel Engine Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>The Army Reserve is designed for those who want to get the most out of the Army while pursuing their civilian careers and goals. Many professionals as...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-Time</EmploymentType>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3G3C172XGVKYMRXMWT</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G3C172XGVKYMRXMWT&amp;HostSite=US&amp;DeveloperKey=WDHS54569PZ5S5SPPVHH</JobServiceURL>
+      <Location>CA - Palo Alto</Location>
+      <LocationLatitude>37.44466</LocationLatitude>
+      <LocationLongitude>-122.16079</LocationLongitude>
+      <PostedDate>3/28/2014</PostedDate>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3G3C172XGVKYMRXMWT</SimilarJobsURL>
+      <JobTitle>Mechanic</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/zg/mr57km74s1nz0lj9szg.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>HasScreener</ApplyRequirement>
+        <ApplyRequirement>RequireUserInfo</ApplyRequirement>
+      </ApplyRequirements>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F6D577LVJ6S3DDR2D</DID>
+      <OnetCode>99-9999.09</OnetCode>
+      <ONetFriendlyTitle>Services Offered</ONetFriendlyTitle>
+      <DescriptionTeaser>The Army Reserve is designed for those who want to get the most out of the Army while pursuing their civilian careers and goals. Many professionals as...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-Time</EmploymentType>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3F6D577LVJ6S3DDR2D</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F6D577LVJ6S3DDR2D&amp;HostSite=US&amp;DeveloperKey=WDHS54569PZ5S5SPPVHH</JobServiceURL>
+      <Location>CA - Palo Alto</Location>
+      <LocationLatitude>37.44466</LocationLatitude>
+      <LocationLongitude>-122.16079</LocationLongitude>
+      <PostedDate>3/28/2014</PostedDate>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3F6D577LVJ6S3DDR2D</SimilarJobsURL>
+      <JobTitle>Field Support Opportunities</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>HasScreener</ApplyRequirement>
+        <ApplyRequirement>RequireUserInfo</ApplyRequirement>
+      </ApplyRequirements>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G4CK6Q06T3PWS9PT1</DID>
+      <OnetCode>99-9999.09</OnetCode>
+      <ONetFriendlyTitle>Services Offered</ONetFriendlyTitle>
+      <DescriptionTeaser>The Army Reserve is designed for those who want to get the most out of the Army while pursuing their civilian careers and goals. Many professionals as...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-Time</EmploymentType>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3G4CK6Q06T3PWS9PT1</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G4CK6Q06T3PWS9PT1&amp;HostSite=US&amp;DeveloperKey=WDHS54569PZ5S5SPPVHH</JobServiceURL>
+      <Location>CA - Gilroy</Location>
+      <LocationLatitude>37.00438</LocationLatitude>
+      <LocationLongitude>-121.57167</LocationLongitude>
+      <PostedDate>3/28/2014</PostedDate>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3G4CK6Q06T3PWS9PT1</SimilarJobsURL>
+      <JobTitle>Field Support Opportunities</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>HasScreener</ApplyRequirement>
+        <ApplyRequirement>RequireUserInfo</ApplyRequirement>
+      </ApplyRequirements>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Citrix</Company>
+      <CompanyDID>chq39269lh6pts887gw</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.com/jobs/company/chq39269lh6pts887gw/citrix/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G6X66NVWKYM8PSLW4</DID>
+      <OnetCode>15-1011.00</OnetCode>
+      <ONetFriendlyTitle>Computer and Information Scientists, Research</ONetFriendlyTitle>
+      <DescriptionTeaser>Because Citrix continues to rapidly grow, we are looking for bright, enthusiastic college graduates who enjoy working in a dynamic, fast-paced...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time</EmploymentType>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3G6X66NVWKYM8PSLW4</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G6X66NVWKYM8PSLW4&amp;HostSite=US&amp;DeveloperKey=WDHS54569PZ5S5SPPVHH</JobServiceURL>
+      <Location>CA - Santa Clara</Location>
+      <LocationLatitude>37.3555</LocationLatitude>
+      <LocationLongitude>-121.95426</LocationLongitude>
+      <PostedDate>3/26/2014</PostedDate>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3G6X66NVWKYM8PSLW4</SimilarJobsURL>
+      <JobTitle>Data Scientist Intern</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/bl/mrs7w778mp7b3rd6qbl.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+    </JobSearchResult>
+  </Results>
+  <SearchMetaData>
+    <ResultsAlteredByUsersSearchPreferences>false</ResultsAlteredByUsersSearchPreferences>
+    <SearchLocations>
+      <SearchLocation>
+        <City>San Jose</City>
+        <StateCode>CA</StateCode>
+        <CountryCode>US</CountryCode>
+        <PostalCode></PostalCode>
+        <Valid>True</Valid>
+      </SearchLocation>
+      <SearchLocation>
+        <City>Santa Clara</City>
+        <StateCode>CA</StateCode>
+        <CountryCode>US</CountryCode>
+        <PostalCode></PostalCode>
+        <Valid>True</Valid>
+      </SearchLocation>
+    </SearchLocations>
+  </SearchMetaData>
+</ResponseJobSearch>

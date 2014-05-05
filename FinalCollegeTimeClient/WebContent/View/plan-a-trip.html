@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="icon" type="image/png" href="images/graduation-cap-diploma-18747492.jpg" />
+<title>CollegeTime</title>
+<link href="css/bootstrap.css" rel="stylesheet">
+<link href="css/plan-a-trip.css" rel="stylesheet">
+<link rel="stylesheet" href="css/colorbox.css">
+<link rel="stylesheet" href="js/jquery-ui-1.10.4/css/ui-lightness/jquery-ui-1.10.4.css">
+</head>
+<body>
+<div id="fb-root"></div>
+<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+	<div class="container">
+	 <div class="navbar-header">
+		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+			<span class="sr-only">Toggle Navigation</span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>					
+		</button> 
+		<a class="navbar-brand" href="index1.html">CollegeTime</a>
+	  </div>	
+	  <div class="navbar-collapse collapse in" style="height: auto;">
+		<ul class="nav navbar-nav">
+			<li class="active"><a href="index1.html"><span class="glyphicon glyphicon-home"></span>Home</a></li>
+			<li><a href="payforcollege.html">Paying for Colleges</a></li>
+			<li><a href="multiform.html">Step-by-Step Guide</a></li>
+		</ul>	 	 
+	  </div>
+	</div>
+</div>
+<div id="page1">
+	<a id="fundraiser"></a>
+	<div id="fundwrap">
+		<h1>Plan A Visit</h1>
+		<div id="fundForm">
+			<form id="theFundForm" enctype="multipart/form-data" method="post">
+			 <input type="text" id="tripTitle" placeholder="Select a title for you Visit"></br>
+			 <input type="text" id="start" name="places" placeholder="Start"></br>
+			 <input type="text" id="end" name="places" placeholder="Destination"></br>
+			 <input type="text" id="datepicker" name="places" placeholder="Date"></br>		 			 
+			<button type="button" class="btn btn-primary" onclick="showPath();">Get Directions</button>	
+			</form>	
+			<br/>			
+			<div id="direction_response">
+					<p>Total Distance: <label id="total_distance"></label></p>
+					<p>Time Required: <label id="duration_estimated"></label></p>  
+			</div>
+			<br/>
+			<a>Get Turn-by-Turn Directions</a>
+		</div>	
+		<div id="fundShareButtons">
+			<div id="map-canvas"></div>
+		</div>
+
+	<div style="clear:both"></div>
+	<div id="directions-panel">
+	<a href="javascript:demoFromHTML()" class="button">Save as Pdf</a>
+	</div>	
+	</div>
+<a href="javascript:demoFromHTML()" class="button">.</a>
+
+</div>
+<script src="js/jquery-1.10.1.min.js"></script>
+<script src="js/jquery.colorbox.js"></script>
+<script src = "js/jquery-ui-1.10.4/js/jquery-ui-1.10.4.js"></script>
+<script type="text/javascript" src="js/jspdf/libs/Blob.js/Blob.js"></script>
+<script type="text/javascript" src="js/jspdf/libs/FileSaver.js/FileSaver.js"></script>
+<script type="text/javascript" src="js/jspdf/jspdf.js"></script>
+<script type="text/javascript" src="js/jspdf/jspdf.plugin.standard_fonts_metrics.js"></script>
+<script type="text/javascript" src="js/jspdf/jspdf.plugin.split_text_to_size.js"></script>
+
+<script type="text/javascript" src="js/jspdf/jspdf.plugin.from_html.js"></script>
+<script src="js/bootstrap.js" type="text/javascript"></script>
+<script type="text/javascript" 
+src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA1n2_4Kx0b4xqIIf6XNsxWR9S_h-_fVP4&libraries=places&sensor=true">
+</script>
+<script type="text/javascript">
+	var map;
+	var autoCompleteSource,autoCompleteDestination;
+	var directionsDisplay;
+	var start,end;
+      function initialize() {
+        var mapOptions = {
+          center: new google.maps.LatLng(-34.397, 150.644),
+          zoom: 8
+        };
+        map = new google.maps.Map(document.getElementById("map-canvas"),
+            mapOptions);
+	autoCompleteSource = new google.maps.places.Autocomplete((document.getElementById('start')),{types:['geocode']});
+	autoCompleteDestination = new google.maps.places.Autocomplete((document.getElementById('end')),{types:['geocode']});
+
+     }
+     
+	function showPath(){
+		var directionsService = new google.maps.DirectionsService();
+		directionsDisplay = new google.maps.DirectionsRenderer();	
+		directionsDisplay.setMap(map);
+		directionsDisplay.setPanel(document.getElementById('directions-panel'));
+		  start = document.getElementById('start').value;
+		  end = document.getElementById('end').value;
+		  var request = {
+		    origin: start,
+		    destination: end,
+		    travelMode: google.maps.TravelMode.DRIVING
+		  };
+		  directionsService.route(request, function(response, status) {
+			    if (status == google.maps.DirectionsStatus.OK) {
+			      directionsDisplay.setDirections(response );
+			      document.getElementById('directions-panel').style.visibility="visible";	 	
+			      document.getElementById('total_distance').innerHTML = (response.routes[0].legs[0].distance.text);
+			      document.getElementById('duration_estimated').innerHTML =(response.routes[0].legs[0].duration.text);
+			      document.getElementById('direction_response').style.visibility="visible";		
+			    }
+		  });
+           }		
+	 google.maps.event.addDomListener(window, 'load', initialize);
+    </script>
+<script type="text/javascript">
+$(document).ready(function(){
+                $(".contactLink").click(function(){
+                    if ($("#contactForm").is(":hidden")){
+                        $("#contactForm").slideDown("slow");
+                    }
+                    else{
+                        $("#contactForm").slideUp("slow");
+                    }
+                });
+            });
+            function closeForm(){
+                $("#messageSent").show("slow");
+                setTimeout('$("#messageSent").hide();$("#contactForm").slideUp("slow")', 2000);
+           }
+
+$(document).ready(function() {
+  function filterPath(string) {
+    return string
+      .replace(/^\//,'')
+      .replace(/(index|default).[a-zA-Z]{3,4}$/,'')
+      .replace(/\/$/,'');
+  }
+  $('a[href*=#]').each(function() {
+    if ( filterPath(location.pathname) == filterPath(this.pathname)
+    && location.hostname == this.hostname
+    && this.hash.replace(/#/,'') ) {
+      var $targetId = $(this.hash), $targetAnchor = $('[name=' + this.hash.slice(1) +']');
+      var $target = $targetId.length ? $targetId : $targetAnchor.length ? $targetAnchor : false;
+       if ($target) {
+         var targetOffset = $target.offset().top;
+         $(this).click(function() {
+           $('html, body').animate({scrollTop: targetOffset}, 1000);
+           var d = document.createElement("div");
+        d.style.height = "101%";
+        d.style.overflow = "hidden";
+        document.body.appendChild(d);
+        window.scrollTo(0,scrollToM);
+        setTimeout(function() {
+        d.parentNode.removeChild(d);
+            }, 10);
+           return false;
+         });
+      }
+    }
+  });
+});
+
+
+window.fbAsyncInit = function() {
+  FB.init({
+    appId      : 550452158385651,
+    status     : true, // check login status
+    cookie     : true, // enable cookies to allow the server to access the session
+    xfbml      : true  // parse XFBML
+  });
+};
+
+
+(function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "http://connect.facebook.net/en_US/all.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk'));
+
+
+function fbAuthUser()
+{
+FB.login(checkLoginStatus,{ scope:'publish_actions,publish_stream'});
+
+}
+
+
+function checkLoginStatus()
+{
+ 	 FB.getLoginStatus(function(response) {
+ 		   if (response.status === 'connected') {
+			alert("checkLoginStatus");
+			alert(response.status);
+				document.getElementById("fbCheckbox").checked=true;
+				var video_file = document.getElementById("video_upload").value;
+				var link_array=video_file.split("=");
+				var youtube_id=link_array[link_array.length-1];
+				alert(youtube_id);	
+				var img="http://img.youtube.com/vi/"+youtube_id+"/0.jpg";
+				var source="https://www.youtube.com/v"+youtube_id;
+				FB.api('/me/feed','post',
+				{ 
+				    name:'testing',
+				    link:video_file,
+				    picture:img,	
+				    source:source					
+                                   },function(response) {	
+					if (!response || response.error) {
+						alert(response.message);	
+					    alert('Error occured');
+					  } else {
+					    alert('Post ID: ' + response.id);
+					  }      				
+	  	  		});
+		     } 
+		 else if (response.status === 'not_authorized') {
+			     document.getElementById("fbCheckbox").checked=true;
+				alert("not-authorzied");
+			      FB.login();
+		    }
+		else {
+		alert("else part");
+	       FB.login();
+	    }
+  });
+}
+</script>
+<script>
+$(document).ready(function(){
+$.ajax({
+type: "GET",
+url :"jobsearch",
+dataType : "xml",
+success : function(response){
+		$(response).find('JobSearchResult').each(function(){
+	
+		var h6=document.createElement('h4'),p = document.createElement('p'),
+		h6_txt=document.createTextNode($(this).find("Company").text()),
+		employmentTitle=$(this).find("JobTitle").text(),
+		location=$(this).find("Location").text();
+		company_link=$(this).find("JobDetailsURL").text();
+		h6.appendChild(h6_txt);
+		$(p).append(h6);
+		$(p).append(employmentTitle);
+		$(p).append("  ")
+		$(p).append(location);
+		$(p).append('<br><a href="'+company_link+'">Read More</a><br><br>');
+		$("#content").append(p);
+		});
+		}
+	});
+});
+</script>
+<script>
+$('a.lightbox').colorbox();
+</script>
+<script>
+  $(function() {
+    $( "#datepicker" ).datepicker();
+  });
+  </script>
+<script>
+     function demoFromHTML() {
+         var doc = new jsPDF('p', 'in', 'a4');
+         var source = document.getElementById('page1');
+         var specialElementHandlers = {
+             '#bypassme': function(element, renderer) {
+                 return true;
+             }
+         };
+
+         doc.fromHTML(
+             source, // HTML string or DOM elem ref.
+             0.5,    // x coord
+             0.5,    // y coord
+             {
+                 'width': 15, // max width of content on PDF
+                 'elementHandlers':{}// specialElementHandlers
+             });
+
+         doc.output('dataurl');
+    }
+</script>
+</body>
+</html>

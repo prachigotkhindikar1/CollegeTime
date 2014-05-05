@@ -1,0 +1,154 @@
+body{
+padding-top:30px;
+height:100%;
+}
+#page1 {
+	height:relative;
+	width:100%;
+	background-image:url("../images/light-grey-and-white-wrinkled-texture_medium.jpg");
+	padding-top:10px;
+	padding-left:15px;
+	padding-right:15px;
+	}
+	h1{
+	font-family:Verdana, Arial,  Helvetica, sans-serif";	
+	}
+	
+	
+#theFundForm input, #theFundForm textarea {
+	padding: 15px;
+	border: 1px solid #ccc;
+	border-radius: 3px;
+	margin-bottom: 10px;
+	width: 100%;
+	box-sizing: border-box;
+	font-family: montserrat;
+	color: #2C3E50;
+	font-size: 13px;
+	-moz-box-shadow: inset 1px 1px 1px 1px #ccc;
+ 	-webkit-box-shadow:inset 1px 1px 1px 1px #E8E8E8;
+  	 box-shadow: inset 1px 1px 1px 1px #E8E8E8;
+}
+
+#fundwrap{
+padding:15px;
+background:#00AAE4;
+border-radius:5px;
+margin:10%;
+-moz-box-shadow:    3px 3px 5px 6px #50A6F0;
+ -webkit-box-shadow: 3px 3px 5px 6px #50A6F0;
+  box-shadow:         3px 3px 5px 6px #50A6F0;
+}
+
+#fundForm{
+float:left;
+width:400px;
+}
+
+#fundShareButtons{
+float:right;
+width:500px;
+height:500px;
+}
+
+/*#fundShareButtons div
+{
+margin:10px;
+height:100%;
+width:100%;
+background:white;
+border-radius:3px;
+padding:5px;
+}*/
+.page-padding {height:90px; width:100%;}
+
+a { color:white; text-decoration:none;}
+	
+a:hover { text-decoration:underline;}
+
+p.linespacing{
+line-height:200%;
+font-size:120%;
+}
+
+#fafsainfograph{
+border-radius:20px;
+}	
+
+#indeed_jobsearchbox{
+padding-top:20px;
+padding-bottom:20px;
+padding-left:100px;
+padding-right:80px;
+position:relative;
+}
+
+#page3_main_content
+{
+padding:10px;
+background:white;
+border-radius:5px;
+margin-top:5%;
+margin-bottom:10%;
+margin-left:10%;
+margin-right:10%;
+}
+
+.tab-pane{
+background:white;
+border-radius:2px;
+padding:10px 10px 10px 10px;
+}
+
+#sidebar{
+margin:10%;
+}
+
+#map-canvas{
+height:100%;
+width:100%;
+}
+
+#search_form input, #search_form span
+{
+width:90%;
+font-family: montserrat;
+margin-top:2%;
+margin-bottom:5%;
+margin-left:5%;
+margin-right:5%;}
+
+#content{
+background:white;
+overflow:auto;
+border-radius:5px;
+height:400px;
+padding-left:50px;
+margin:10%;
+}
+
+#content h4{
+color:#07c;
+}
+
+a{
+color:black;
+text-decoration:underline;
+cursor:pointer;
+}
+
+#searchResults{
+margin-top:5%;
+margin-bottom:5%;;
+}
+
+#direction_response{
+margin:10%;
+visibility:hidden;
+}
+
+#directions-panel{
+padding:20px;
+visibility:hidden;
+height:relative;
+}

@@ -1,0 +1,13 @@
+var current_fs,continue_fs,back_fs;//fieldsets
+var left,opacity,scale;//fieldsetproperty that will be animated
+var animate_in_progress;
+
+$(".continue").click(function(){
+
+if(animate_in_progress)return false;
+animate_in_progress = true;
+current_fs=$(this).parent();
+next_fs=$(this).parent().next();
+
+next_fs.show();
+});

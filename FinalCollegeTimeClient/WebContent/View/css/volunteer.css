@@ -1,0 +1,93 @@
+body{
+padding-top:30px;
+padding-bottom:30px;
+/*margin-left:10%;
+margin-right:10%;
+*/}
+
+	h1{
+	font-family:Verdana, Arial,  Helvetica, sans-serif";	
+	}
+	
+#page2 {
+	height:1100px;
+	width:100%;
+	background:#777cdc;
+	padding-top:150px;
+	padding-left:15px;
+	padding-right:15px;
+	font-family:Verdana, Arial,  Helvetica, sans-serif";
+	}
+	
+#page3 {
+	height:1100px;
+	width:100%;
+	background-image:url("../images/Grey-Oak-50.65.jpg");
+	padding-top:150px;
+	padding-left:15px;
+	padding-right:15px;
+	}
+	
+#searchForm input, #searchForm textarea {
+	padding: 15px;
+	border: 1px solid #ccc;
+	border-radius: 3px;
+	margin-bottom: 10px;
+	width: 100%;
+	box-sizing: border-box;
+	font-family: montserrat;
+	color: #2C3E50;
+	font-size: 13px;
+}
+
+
+
+#fundShareButtons{
+float:right;
+width:300px;
+}
+
+#fundShareButtons div
+{
+margin:10px;
+height:40px;
+width:70%;
+background:white;
+border-radius:3px;
+padding:5px;
+}
+.page-padding {height:90px; width:100%;}
+
+a { color:white; text-decoration:none;}
+	
+a:hover { text-decoration:underline;}
+
+p.linespacing{
+line-height:200%;
+font-size:120%;
+}
+
+#fafsainfograph{
+border-radius:20px;
+}	
+
+#indeed_jobsearchbox{
+padding-top:20px;
+padding-bottom:20px;
+padding-left:200px;
+padding-right:80px;
+position:relative;
+}
+
+#page3_main_content
+{
+padding:20px;
+background:white;
+border-radius:5px;
+}
+
+#search_form input
+{
+width:90%;
+font-family: montserrat;
+}
